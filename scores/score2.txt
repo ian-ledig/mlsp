@@ -1,3 +1,0 @@
-Training data : lr: 0.001, maxEpoch: 30, fftLength: 5000, dataset_length: 1000
-[
-[
